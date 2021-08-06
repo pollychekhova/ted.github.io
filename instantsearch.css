@@ -433,6 +433,7 @@ a[class^=ais-] {
     text-decoration: none;
     text-transform: capitalize;
     background-color: transparent;
+    margin-top: .3rem;
 }
 }
 
@@ -461,6 +462,11 @@ a[class^=ais-] {
 .ais-CurrentRefinements-label {
     
     color: #757575;
+}
+
+.ais-CurrentRefinements-categoryLabel {
+    display: inline;
+    margin-right: 14px;
 }
 .ais-CurrentRefinements-label {
     display: none;
