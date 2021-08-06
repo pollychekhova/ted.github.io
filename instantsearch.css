@@ -15,7 +15,7 @@ margin-bottom: 40px;
     display: inline;
     padding: 2px;
    
-    font-size: 14px;
+    font-size: 14px!important;
     line-height: 135%;
     font-weight: 400;
     text-decoration: none;
@@ -458,8 +458,8 @@ a[class^=ais-] {
 }
 
 .ais-RefinementList-label {
-    margin-bottom: 6px;
-    margin-top: 6px;
+    margin-bottom: 12px;
+    margin-top: 12px;
 }
 
 .ais-CurrentRefinements-categoryLabel,
@@ -616,6 +616,7 @@ a[class^=ais-] {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: auto auto;
     margin: 0px;
+    margin-bottom: 40px;
 }
 
 .ais-Panel-body .ais-Hits-list,
@@ -910,6 +911,7 @@ a[class^=ais-] {
 
 .ais-SearchBox-input:focus{
     border-color: rgba(18,18,18,.3);
+    outline: none;
 }
 .ais-SearchBox-input::-webkit-input-placeholder {
     color: #a5aed1
