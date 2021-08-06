@@ -945,7 +945,8 @@ a[class^=ais-] {
     top: 50%;
     right: 1.6rem;
     -webkit-transform: translateY(-50%);
-    transform: translateY(-50%)
+    transform: translateY(-50%);
+    display: none;
 }
 
 .ais-SearchBox-submit {
