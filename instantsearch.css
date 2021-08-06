@@ -443,6 +443,7 @@ a[class^=ais-] {
     display: -ms-flexbox;
     display: flex!important;
     align-items: center!important;
+    margin-left:6px;
 }
 
 .ais-CurrentRefinements-delete {
@@ -456,7 +457,7 @@ a[class^=ais-] {
     justify-content: center;
     font-size: 10px;
     margin-right: 12px;
-    padding-right: 0px;
+
 }
 
 .ais-RefinementList-label {
