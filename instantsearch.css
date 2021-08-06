@@ -13,8 +13,8 @@ margin-bottom: 40px;
 
 .ais-RefinementList-labelText {
     display: inline;
-    padding: 6px;
-    padding-left: 24px;
+    padding: 2px;
+   
     font-size: 14px;
     line-height: 135%;
     font-weight: 400;
@@ -567,8 +567,8 @@ a[class^=ais-] {
 .ais-Menu-count,
 .ais-RefinementList-count,
 .ais-ToggleRefinement-count {
-    padding: 6px;
-    padding-right:24px;
+    padding: 4px;
+    
     background-color: transparent;
     border-radius: 0px;
     font-size: 14px;
