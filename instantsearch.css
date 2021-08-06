@@ -457,6 +457,11 @@ a[class^=ais-] {
     font-size: 10px;
 }
 
+.ais-RefinementList-label {
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+
 .ais-CurrentRefinements-categoryLabel,
 .ais-CurrentRefinements-delete,
 .ais-CurrentRefinements-label {
