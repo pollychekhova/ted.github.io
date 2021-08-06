@@ -441,8 +441,8 @@ a[class^=ais-] {
     
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex;
-    align-items: center;
+    display: flex!important;
+    align-items: center!important;
 }
 
 .ais-CurrentRefinements-delete {
@@ -465,7 +465,7 @@ a[class^=ais-] {
 }
 
 .ais-CurrentRefinements-categoryLabel {
-    display: inline;
+
     margin-right: 14px;
 }
 .ais-CurrentRefinements-label {
