@@ -455,6 +455,7 @@ a[class^=ais-] {
     align-items: center;
     justify-content: center;
     font-size: 10px;
+    margin-right: 12px;
 }
 
 .ais-RefinementList-label {
@@ -616,7 +617,7 @@ a[class^=ais-] {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: auto auto;
     margin: 0px;
-    margin-bottom: 40px;
+    margin-bottom: 56px;
 }
 
 .ais-Panel-body .ais-Hits-list,
@@ -940,7 +941,7 @@ a[class^=ais-] {
     width: 20px;
     height: 20px;
     top: 50%;
-    right: .3rem;
+    right: 1.6rem;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%)
 }
